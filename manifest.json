@@ -1,0 +1,11 @@
+{
+  "82059056fce8abe8005b3aa001985428115977d40f32dc6a82b7090f1ad7d749": "ComClaw/qodercli.exe",
+  "51398051c2332b6afe08dc3b9dbb4056085c197f35ca57a307ee303d450cada5": "ComClaw/codex.exe",
+  "1836cfb7eb2fa71d9f56249a1b7ad86b7b69254f475c16f41e063aaa4ea05809": "ComClaw/shm.dll",
+  "8a6cf8bbf54cb7653c8140b524de673e7785e16053df53921da04845e995c9db": "ComClaw/torch.dll",
+  "b56491e5719a8d17e4ce0da11cfc0cf2ab02af5be2568126aef52e9970b3aa8e": "ComClaw/torch_global_deps.dll",
+  "7542661d7e979ac539594834392899bf6a3c60d4d95281cee32cecb166dec0cf": "ComClaw/comclaw-desktop.exe",
+  "54e8920d76cd6e72a4798bbda0506966abeb4f81494d4249acb924ea0608dbcd": "ComClaw/uninstall.exe",
+  "c29604bda3ef0f8b9de7904b5e71cff9d5c0eb58495dc069054be325c6805061": "ComClaw/comclaw-backend.exe",
+  "1923ded99f1cee71c9d19a6fe0992796ff7a5a4d5871fd057ee1298ac0ec96e0": "ComClaw/AgentLoopCard-CY-Tp5iV.js"
+}
