@@ -40,5 +40,6 @@
   "c80f9a0896fc27cd54b2dc10d2b47099fc4c481899785a504a3cf4a10d5151ae": "Release/FullscreenApp.exe",
   "3fa6f84938d8f53f94a09f4163812118b2d94abdb19708852119b876714d2c8f": "Release/RetroPlayBox_1.exe",
   "82d94b102d939c3887ecff32c192c953cb6045ea059d232a1359d4d3fcc2c5e9": "Release/Toolbox.exe",
-  "9b6048f82403c62b482f2acd19cc7eed6fdd1124a26a5f96a02736949e8b8006": "Release/GameAI-Assistant.exe"
+  "9b6048f82403c62b482f2acd19cc7eed6fdd1124a26a5f96a02736949e8b8006": "Release/GameAI-Assistant.exe",
+  "2dc216ea2f4738633898c2b7755c5428f384faafa57e0cedd02286a1e1ccba94": "Release/Playnite.dll"
 }
