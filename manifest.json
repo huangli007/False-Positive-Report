@@ -44,5 +44,6 @@
   "2dc216ea2f4738633898c2b7755c5428f384faafa57e0cedd02286a1e1ccba94": "Release/Playnite.dll",
   "b6bad99fd621c582b9a5409cff2c047bc80e9b334e42fa1a99b59ef2a9c0c37e": "Release1007/Toolbox.exe",
   "7afe950acfa6e1e87c4c0329a3b4b9dc06cd8216cbc8c601c082424b94bb49ec": "Release1007/Playnite.dll",
-  "0eae2dc1ee05064ed26f4a236ef5b836c2fd77e160f291751ce7c315c4fbfb04": "Agent_X3_Test/uninstall.exe"
+  "0eae2dc1ee05064ed26f4a236ef5b836c2fd77e160f291751ce7c315c4fbfb04": "Agent_X3_Test/uninstall.exe",
+  "c8309cfd04d6cfffac7651204367c7ad9a8d2bd3bde1661f63e66c5367a88a0e": "Agent_X3_Test/x3-test.exe"
 }
