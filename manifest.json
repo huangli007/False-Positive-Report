@@ -46,5 +46,6 @@
   "7afe950acfa6e1e87c4c0329a3b4b9dc06cd8216cbc8c601c082424b94bb49ec": "Release1007/Playnite.dll",
   "0eae2dc1ee05064ed26f4a236ef5b836c2fd77e160f291751ce7c315c4fbfb04": "Agent_X3_Test/uninstall.exe",
   "c8309cfd04d6cfffac7651204367c7ad9a8d2bd3bde1661f63e66c5367a88a0e": "Agent_X3_Test/x3-test.exe",
-  "1f8b8ebfb07aad2c692669ba77c45b5a24e72b9c708bc3f2be4103ff29370c60": "Agent_X3_Test/onnxruntime_providers_shared.dll"
+  "1f8b8ebfb07aad2c692669ba77c45b5a24e72b9c708bc3f2be4103ff29370c60": "Agent_X3_Test/onnxruntime_providers_shared.dll",
+  "551d0e1fe4c227d8542314ba718d52f4379e0c7bfe729a37c59833a884e27b4d": "Agent_X3_Test/onnxruntime_providers_shared_1.dll"
 }
