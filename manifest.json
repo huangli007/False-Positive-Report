@@ -50,5 +50,6 @@
   "551d0e1fe4c227d8542314ba718d52f4379e0c7bfe729a37c59833a884e27b4d": "Agent_X3_Test/onnxruntime_providers_shared_1.dll",
   "40972733d93fe0105e3a4d82081d1ce246834caeae1954ec64346a5d61008295": "projects/CefSharp.BrowserSubprocess.exe",
   "fc9f691840368ea493fc2a0a3f4eabfc5f62bd290114e60f9fa4019f0bcfcc2b": "projects/FullscreenApp.exe",
-  "d272c6ce591974d67abbdbc5f7442717142d448b951c6aea74536854c7bb77d4": "projects/RetroPlayBox.exe"
+  "d272c6ce591974d67abbdbc5f7442717142d448b951c6aea74536854c7bb77d4": "projects/RetroPlayBox.exe",
+  "bf8598346e5ea7c0e15847ac43fea2bbf48c4ad8e7b36e19d5ad1c741f74e277": "detections/pc-manager.exe"
 }
